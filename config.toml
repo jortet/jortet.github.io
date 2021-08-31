@@ -1,5 +1,6 @@
 baseURL = "http://hulecom.github.io/"
 languageCode = "en-us"
+defaultContentLanguage = "en-us"
 title = "Hugo Lecomte website"
 theme = "minimal"
 disqusShortname = "hulecom" # delete this to disable disqus comments
@@ -8,8 +9,8 @@ googleAnalytics = ""
 [params]
     author = "Hugo Lecomte"
     description = "Personal Reasearch page powered by Hugo"
-    githubUsername = "#"
-    accent = "red"
+    githubUsername = "hulecom"
+    accent = "#5CDB95"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!

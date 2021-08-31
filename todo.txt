@@ -1,0 +1,20 @@
+Page de garde: comment la changer?
+ajouter adresse, tel work
+changer couleur?
+ajouter une photo en pastille à gauche?
+
+My research = créer une page texte md que je remplirai
+
+Publication, conference
+page abstract au propre (voir sutterley)
+ajouter les abstracts des conferences
+voir si il est légal d'afficher ses abstracts
+
+Teaching
+Créer une page texte md que je remplirai
+
+Update CV english (et fr par la même occasion)
+Voir pour créer le site dispo en FR
+https://gohugo.io/content-management/multilingual/
+Voir configuration recherche/standard google
+ajouter un logo pastille au site (une terre geodesie?)
