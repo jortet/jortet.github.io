@@ -18,3 +18,7 @@ Voir pour créer le site dispo en FR
 https://gohugo.io/content-management/multilingual/
 Voir configuration recherche/standard google
 ajouter un logo pastille au site (une terre geodesie?)
+
+photo google scholar
+photo et reade github (voir tyler)
+update researchgate
