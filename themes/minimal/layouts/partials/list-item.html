@@ -1,0 +1,57 @@
+<div class="item">
+    {{ $.Scratch.Set "authors" .Params.authors}}
+    {{ $.Scratch.Set "title" .Title}}
+    {{ $.Scratch.Set "publication" .Params.publication}}
+
+
+    {{ with .Params.info }} {{ $.Scratch.Set "info" . }} {{ end }}
+    {{ with .Params.doi }} {{ $.Scratch.Set "doi" . }} {{ end }}
+    {{ with .Params.note }} {{ $.Scratch.Set "note" . }} {{ end }}
+
+
+    {{ $.Scratch.Set "link" .RelPermalink }}
+
+    {{ with .Params.link }} {{ $.Scratch.Set "link" . }} {{ end }}
+
+    {{ with .Description }} {{ $.Scratch.Set "subheader" . }} {{ end }}
+
+    {{ if eq "1" .Params.publication_types }}
+      {{ .Date.Format (.Site.Params.dateFormat | default "January, 2006") | $.Scratch.Set "date" }}
+
+      <h4>{{ $.Scratch.Get "authors" | markdownify}}, {{ $.Scratch.Get "title" }}.
+        <i>{{ $.Scratch.Get "publication" }}</i>{{ $.Scratch.Get "info" }} {{ $.Scratch.Get "note" }} {{ $.Scratch.Get "date" }}</h4>
+
+      {{ if ne "" .Params.doi}}
+        <h5>[<a href="{{ .Scratch.Get "doi" }}">http</a> | <a href="{{ .Scratch.Get "link" }}">Abstract</a>]</h5>
+      {{ else }}
+        <h5>[<a href="{{ .Scratch.Get "link" }}">Abstract</a>]</h5>
+      {{ end }}
+
+    {{ else if eq "2" .Params.publication_types }}
+      {{ .Date.Format (.Site.Params.dateFormat | default "2006") | $.Scratch.Set "date" }}
+
+      <h4>{{ $.Scratch.Get "authors" | markdownify}}, {{ $.Scratch.Get "title" }}.
+        <i>{{ $.Scratch.Get "publication" }}</i>{{ $.Scratch.Get "info" }}, {{ $.Scratch.Get "date" }}</h4>
+      <h5>[<a href="{{ .Scratch.Get "doi" }}">DOI</a> | <a href="{{ .Scratch.Get "link" }}">Abstract</a>]</h5>
+    {{ end }}
+
+    {{ partial "tags" . }}
+
+</div>
+
+<!-- Utilisable pour ajouter des repo de codes (voir si j'ajoute un onglet projet)
+    {{ with .Params.repo }}
+        {{ $repoHost := default "github" $.Params.repoHost }}
+        {{ if eq "github" $repoHost }}
+            {{ printf "https://github.com/%s/%s/" $.Site.Params.githubUsername . | $.Scratch.Set "link" }}
+        {{ else if eq "gitlab" $repoHost }}
+            {{ printf "https://gitlab.com/%s/%s/" $.Site.Params.gitlabUsername . | $.Scratch.Set "link" }}
+        {{ else if eq "bitbucket" $repoHost }}
+            {{ printf "https://bitbucket.org/%s/%s/" $.Site.Params.bitbucketUsername . | $.Scratch.Set "link" }}
+        {{ end }}
+    {{ end }}
+
+    <h4><a href="{{ .Scratch.Get "link" }}">{{ .Title }}</a></h4>
+    <h4>{{ $.Scratch.Get "authors" }}, {{ $.Scratch.Get "title" }}. <i>{{ $.Scratch.Get "publication" }}</i> {{ $.Scratch.Get "note" }}, {{ $.Scratch.Get "date" }}</h4>
+    <h5>{{ $.Scratch.Get "date" }}</h5>
+-->

@@ -1,0 +1,12 @@
+{{ partial "header" . }}
+
+<main>
+
+    <h2>{{ .Title }}</h2>
+
+    {{ range (.Paginator 15).Pages.ByDate.Reverse }} {{ partial "list-item" . }} {{ end }}
+
+</main>
+
+{{ partial "paginator" . }}
+{{ partial "footer" . }}
