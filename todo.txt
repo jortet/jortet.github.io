@@ -11,14 +11,13 @@ ajouter les abstracts des conferences
 voir si il est légal d'afficher ses abstracts
 
 Teaching
-Créer une page texte md que je remplirai
+Remplir page texte md
 
-Update CV english (et fr par la même occasion)
 Voir pour créer le site dispo en FR
 https://gohugo.io/content-management/multilingual/
 Voir configuration recherche/standard google
 ajouter un logo pastille au site (une terre geodesie?)
 
 photo google scholar
-photo et reade github (voir tyler)
+photo et readme github (voir tyler)
 update researchgate

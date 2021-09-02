@@ -1,5 +1,4 @@
 ---
-title: "Index"
+title: "Teaching"
 description: ""
-draft: true
 ---

@@ -70,18 +70,17 @@ with open(args.file, "r") as file:
             os.mkdir(os.path.join("content", args.directory, folder_name))
 
         if args.overwrite or not(os.path.isfile(os.path.join("content", args.directory, "index.md"))):
-            text = "---\n"
-            text += "title: '" + dic["title"] + "'\n"
-            text += "date: " + dic["date"] + "\n"
-            text += "draft: true\n"
-            text += "authors: '" + dic["authors"] + "'\n"
-            text += "publication_types: '" + dic["publication_types"] + "'\n"
-            text += "abstract: '" + dic["abstract"] + "'\n"
-            text += "publication: '" + dic["booktitle"] + "'\n"
-            text += "info: '" + dic["info"] + "'\n"
-            text += "doi: '" + dic["url"] + "'\n"
-            text += "note: '" + dic["note"] + "'\n"
-            text += "---"
+            text = '---\n'
+            text += 'title: "' + dic["title"] + '"\n'
+            text += 'date: ' + dic["date"] + '\n'
+            text += 'authors: "' + dic["authors"] + '"\n'
+            text += 'publication_types: "' + dic["publication_types"] + '"\n'
+            text += 'abstract: "' + dic["abstract"] + '"\n'
+            text += 'publication: "' + dic["booktitle"] + '"\n'
+            text += 'info: "' + dic["info"] + '"\n'
+            text += 'doi: "' + dic["url"] + '"\n'
+            text += 'note: "' + dic["note"] + '"\n'
+            text += '---'
 
             with open(os.path.join("content", args.directory, folder_name, "index.md"), "w") as file:
                 file.write(text)
