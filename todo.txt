@@ -3,7 +3,7 @@ ajouter adresse, tel work
 changer couleur?
 ajouter une photo en pastille à gauche?
 
-My research = page texte md à remplir
+My research = créer une page texte md que je remplirai
 
 Publication, conference
 page abstract au propre (voir sutterley)
