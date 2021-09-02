@@ -1,4 +1,4 @@
-baseURL = "http://hulecom.github.io/"
+baseURL = "https://hulecom.github.io/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Hugo Lecomte website"
