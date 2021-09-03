@@ -2,13 +2,17 @@
 
 <main>
     <div class="intro">
+      <div class="column left">
         {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}"> {{ end }}
-        <h1>{{ .Site.Title }}</h1>
-        <h2>{{ markdownify .Site.Params.Description }}</h2>
+      </div>
+      <div class="column right">
+        <h1 class="title_site">{{ .Site.Title }}</h1>
+        <h2 class="subtitle">{{ markdownify .Site.Params.Description }}</h2>
         <div class="homepage-content text-justify">{{ markdownify .Site.Params.post }}</div>
         <div class="homepage-content text-justify">{{ markdownify .Site.Params.address}}</div>
         <div class="homepage-content text-justify">{{ markdownify .Site.Params.mail }}</div>
         {{ with .Content }} <div class="homepage-content text-justify">{{ . }}</div> {{ end }}
+      </div>
     </div>
 </main>
 

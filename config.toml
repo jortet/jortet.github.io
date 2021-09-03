@@ -1,26 +1,26 @@
-baseURL = "https://hulecom.github.io/"
+baseURL = "https://jortet.github.io/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Hugo Lecomte"
+title = "Juliette Ortet"
 theme = "minimal"
-disqusShortname = "hulecom" # delete this to disable disqus comments
+disqusShortname = "jortet" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
-    author = "Hugo Lecomte"
-    description = "Personal Reasearch page"
-    githubUsername = "hulecom"
+    author = "Juliette Ortet"
+    description = "Personal Research page"
+    githubUsername = "jortet"
     accent = "#379683"
-    profilePic = "/20190710_115618.jpg"
+    profilePic = "/photo_JOR.jpg"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
-    post = "PhD student at [ITES](https://ites.unistra.fr/), University of Strasbourg"
-    address = "5 rue René Descartes, 67000 Strasbourg, France"
-    mail = "[hlecomte (at) unistra.fr](mailto:hlecomte@unistra.fr)"
+    post = "PhD student at [CESBIO](https://www.cesbio.cnrs.fr/en-cesbio/) and [UQTR](https://www.uqtr.ca/english)"
+    address = "18 avenue Edouard Belin BPI 2801 31401 Toulouse Cedex 9, France"
+    mail = "[juliette.ortet (at) uqtr.ca](mailto:juliette.ortet@uqtr.ca)"
 
 [[menu.main]]
     url = "/"
@@ -29,17 +29,17 @@ googleAnalytics = ""
 
 [[menu.main]]
     url = "/research/"
-    name = "My research"
+    name = "Research"
     weight = 2
 
 [[menu.main]]
-    url = "/publications/"
-    name = "Publications"
+    url = "/publications_conferences/"
+    name = "Publications & conferences"
     weight = 3
 
 [[menu.main]]
-    url = "/conferences/"
-    name = "Conferences"
+    url = "/communication/"
+    name = "Communication"
     weight = 4
 
 [[menu.main]]
@@ -56,27 +56,27 @@ googleAnalytics = ""
 # The "name" field should match the name of the icon in Font Awesome.
 # The list of available icons can be found at http://fontawesome.io/icons.
 
-[[menu.icon]]
-    url = "mailto:hlecomte@unistra.fr"
-    name = "fas fa-envelope"
-    weight = 1
-
-[[menu.icon]]
-    url = "https://github.com/hulecom/"
-    name = "fab fa-github"
-    weight = 2
+#[[menu.icon]]
+#    url = "https://github.com/jortet/"
+#    name = "fab fa-github"
+#    weight = 1
 
 [[menu.icon]]
     url = "https://scholar.google.fr/citations?user=tGrXnO4AAAAJ"
     name = "fas fa-graduation-cap"
-    weight = 3
+    weight = 2
 
 [[menu.icon]]
     url = "https://www.researchgate.net/profile/Hugo_Lecomte2"
     name = "fab fa-researchgate"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/juliette-ortet-151ba4137/"
+    name = "fab fa-linkedin"
     weight = 4
 
 [[menu.icon]]
-    url = "https://twitter.com/HuLecomte/"
-    name = "fab fa-twitter"
+    url = "mailto:juliette.ortet@uqtr.ca"
+    name = "fas fa-envelope"
     weight = 5

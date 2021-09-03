@@ -1,11 +1,11 @@
 ---
 title: "Research"
-date: "2021-08-30"
+date: "2021-09-03"
 ---
 PhD research
 ============
 
-2020-2023
+2020-2024
 ---------
 
 Now is the time for all good men to come to
