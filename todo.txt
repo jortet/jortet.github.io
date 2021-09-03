@@ -10,6 +10,8 @@ page abstract au propre (voir sutterley)
 ajouter les abstracts des conferences
 voir si il est légal d'afficher ses abstracts
 
+Arboresence avec préprint, et un dossier par an? si ca marche
+
 Teaching
 Remplir page texte md
 
@@ -17,6 +19,7 @@ Voir pour créer le site dispo en FR
 https://gohugo.io/content-management/multilingual/
 Voir configuration recherche/standard google
 ajouter un logo pastille au site (une terre geodesie?)
+ajouter un affichage de la dernière date de mise à jour
 
 photo google scholar
 photo et readme github (voir tyler)
