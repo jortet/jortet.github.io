@@ -8,7 +8,7 @@ googleAnalytics = ""
 
 [params]
     author = "Hugo Lecomte"
-    description = "Personal Reasearch page"
+    description = "Personal Research page"
     githubUsername = "hulecom"
     accent = "#379683"
     profilePic = "/20190710_115618.jpg"
@@ -19,7 +19,7 @@ googleAnalytics = ""
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     post = "PhD student at [ITES](https://ites.unistra.fr/), University of Strasbourg"
-    address = "5 rue René Descartes, 67000 Strasbourg, France"
+    address = "Address: 5 rue René Descartes, 67000 Strasbourg, France"
     mail = "[hlecomte (at) unistra.fr](mailto:hlecomte@unistra.fr)"
 
 [[menu.main]]

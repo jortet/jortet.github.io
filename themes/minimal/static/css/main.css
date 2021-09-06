@@ -13,7 +13,7 @@ main {
     margin: auto;
     padding: 25px;
     flex: 1 0 auto;
-    max-width: 750px;
+    max-width: 850px;
 }
 
 img {
@@ -23,7 +23,7 @@ img {
 /* Homepage */
 
 .intro {
-    transform: translateY(22vh);
+    transform: translateY(5vh);
 }
 
 .intro > h1 {
@@ -42,12 +42,16 @@ img {
     padding-top: 20px;
 }
 
+.content > p {
+  text-align: left;
+}
+
 /* Profile picture */
 
 .profile {
-    width: 10vh;
-    height: 10vh;
-    border-radius: 50%;
+    width: 90vmin;
+    height: 30vmin;
+    /*border-radius: 50%;*/
 }
 
 /* Colored links */
@@ -82,6 +86,10 @@ a:hover {
 }
 
 /* List item for posts/projects */
+
+.list-title {
+    padding-bottom: 22px;
+}
 
 .item {
     padding: 10px 0;

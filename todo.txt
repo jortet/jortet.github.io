@@ -1,6 +1,3 @@
-Page de garde:
-rendre responsive sur portable une fois finie
-
 My research = créer une page texte md que je remplirai
 
 Publication, conference
