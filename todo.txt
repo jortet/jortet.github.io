@@ -1,17 +1,25 @@
+Home: mettre une section keyword entre le titre et le contact
+Time-varying Gravimetry, Geodesy
+
+Pour la google ref sur les images: compresser image, add alt-text attribute to image
+
 My research = créer une page texte md que je remplirai
 
 Publication, conference
-page abstract au propre (voir sutterley)
-ajouter les abstracts des conferences
+page abstract avec image (voir sutterley)
 
 Voir pour créer le site dispo en FR
 https://gohugo.io/content-management/multilingual/
-Voir configuration recherche/standard google
+Voir configuration recherche/standard google (hugo website SEO)
+https://martijnvanvreeden.nl/10-ways-to-improve-your-hugo-website-performance/
+https://github.com/doncabreraphone/victorhugo
+https://harrycresswell.com/writing/hugo-seo-accurate-page-titles/
 ajouter un logo pastille au site (une terre geodesie?)
 
 Amélioration potentielle:
 Arborescence avec préprint, et un dossier par an? si ca marche
 potentiellement remove la date de last update des pages abstract
+ajout google analytics https://gideonwolfe.com/posts/sysadmin/hugo/hugogoogleanalytics/
 
 readme github (voir tyler)
 update researchgate

@@ -1,12 +1,13 @@
 ---
-title: "Research"
+title: "My Research"
 date: "2021-08-30"
 ---
 PhD research
 ============
+Magnetic, gravimetric and geodetic constraints on the dynamics of the fluid core
+--------------------------------------------------------------------------------
 
-2020-2023
----------
+### 2020-2023
 
 Now is the time for all good men to come to
 the aid of their country. This is just a
@@ -14,6 +15,20 @@ regular paragraph.
 
 The quick brown fox jumped over the lazy
 dog's back.
+
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
 
 ### Header 3
 

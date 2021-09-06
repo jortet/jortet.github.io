@@ -43,7 +43,7 @@ img {
 }
 
 .content > p {
-  text-align: left;
+  text-align: justify;
 }
 
 /* Profile picture */

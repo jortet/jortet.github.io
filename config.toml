@@ -11,7 +11,7 @@ googleAnalytics = ""
     description = "Personal Research page"
     githubUsername = "hulecom"
     accent = "#379683"
-    profilePic = "/20190710_115618.jpg"
+    profilePic = "/hugo_lecomte_fieldwork.jpg"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
@@ -19,7 +19,7 @@ googleAnalytics = ""
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     post = "PhD student at [ITES](https://ites.unistra.fr/), University of Strasbourg"
-    address = "Address: 5 rue René Descartes, 67000 Strasbourg, France"
+    address = "Address: 5 rue René Descartes, 67084 Strasbourg Cedex, France"
     mail = "[hlecomte (at) unistra.fr](mailto:hlecomte@unistra.fr)"
 
 [[menu.main]]
@@ -80,3 +80,6 @@ googleAnalytics = ""
     url = "https://twitter.com/HuLecomte/"
     name = "fab fa-twitter"
     weight = 5
+
+[markup.goldmark.renderer]
+    unsafe= true

@@ -28,6 +28,9 @@ with open(args.file, "r") as file:
         lines = article.split("\n")
         folder_name = lines[0].split("{")[1][:-1]
 
+        with open(os.path.join("content", args.directory, folder_name, folder_name+".bib"), "w") as file:
+            file.writelines(article)
+
         dic = {}
         for info in listtoread:
             dic[info] = ""
@@ -80,6 +83,7 @@ with open(args.file, "r") as file:
             text += 'info: "' + dic["info"] + '"\n'
             text += 'doi: "' + dic["url"] + '"\n'
             text += 'note: "' + dic["note"] + '"\n'
+            text += 'folder_name: "' + folder_name +'"\n'
             text += '---'
 
             with open(os.path.join("content", args.directory, folder_name, "index.md"), "w") as file:

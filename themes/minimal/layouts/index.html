@@ -2,7 +2,7 @@
 
 <main>
     <div class="intro">
-        {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}"> {{ end }}
+        {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}" alt="Hugo Lecomte doing fieldwork"> {{ end }}
         <h1>{{ .Site.Title }}</h1>
         <h2>{{ markdownify .Site.Params.Description }}</h2>
         <div class="homepage-content text-justify">{{ markdownify .Site.Params.post }}</div>
