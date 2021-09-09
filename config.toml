@@ -10,7 +10,7 @@ googleAnalytics = ""
     author = "Juliette Ortet"
     description = "Personal Research page"
     githubUsername = "jortet"
-    accent = "#379683"
+    accent = "#003c1e"
     profilePic = "/photo_JOR.jpg"
     showBorder = true
     backgroundColor = "white"
@@ -19,7 +19,7 @@ googleAnalytics = ""
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     post = "PhD student at [CESBIO](https://www.cesbio.cnrs.fr/en-cesbio/) and [UQTR](https://www.uqtr.ca/english)"
-    address = "18 avenue Edouard Belin BPI 2801 31401 Toulouse Cedex 9, France"
+    address = "18 avenue Edouard Belin 31401 Toulouse Cedex 9, France"
     mail = "[juliette.ortet (at) uqtr.ca](mailto:juliette.ortet@uqtr.ca)"
 
 [[menu.main]]
@@ -62,12 +62,12 @@ googleAnalytics = ""
 #    weight = 1
 
 [[menu.icon]]
-    url = "https://scholar.google.fr/citations?user=tGrXnO4AAAAJ"
+    url = "https://scholar.google.fr/"
     name = "fas fa-graduation-cap"
     weight = 2
 
 [[menu.icon]]
-    url = "https://www.researchgate.net/profile/Hugo_Lecomte2"
+    url = "https://www.researchgate.net/"
     name = "fab fa-researchgate"
     weight = 3
 
