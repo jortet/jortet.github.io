@@ -2,13 +2,13 @@
 title: "My Research"
 date: "2021-08-30"
 ---
-PhD research
+PhD
 ============
 Magnetic, gravimetric and geodetic constraints on the dynamics of the fluid core
 --------------------------------------------------------------------------------
 
 ### 2020-2023
-
+<!---
 Now is the time for all good men to come to
 the aid of their country. This is just a
 regular paragraph.
@@ -36,4 +36,4 @@ print("hello world!")
 >
 > This is the second paragraph in the blockquote.
 >
-> ## This is an H2 in a blockquote
+> ## This is an H2 in a blockquote-->

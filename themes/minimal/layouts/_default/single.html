@@ -13,7 +13,7 @@
     {{ if isset .Params "abstract"}}
       <h4>by {{ $.Scratch.Get "authors" | markdownify}}<br>
         {{ if ne "" .Params.doi}}
-          <a href="{{ .Scratch.Get "doi" }}"><i>{{ $.Scratch.Get "publication" }}</i>{{ $.Scratch.Get "info" }}</a><br>
+          <a href='{{ .Scratch.Get "doi" }}'><i>{{ $.Scratch.Get "publication" }}</i>{{ $.Scratch.Get "info" }}</a><br>
         {{ else }}
           <i>{{ $.Scratch.Get "publication" }}</i>{{ $.Scratch.Get "info" }}<br>
         {{ end }}
