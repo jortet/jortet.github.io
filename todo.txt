@@ -1,10 +1,12 @@
 Home: mettre une section keyword entre le titre et le contact
 Time-varying Gravimetry, Geodesy
 
-Pour la google ref sur les images: compresser image, add alt-text attribute to image
-
 My research = créer une page texte md que je remplirai
 
+Bug affichage abstract ne se fait pas par moment à voir
+
+
+Pour la google ref sur les images: compresser image (sinon ca peut aussi casser sur github > 1Mo), add alt-text attribute to image
 Publication, conference
 page abstract avec image (voir sutterley)
 
