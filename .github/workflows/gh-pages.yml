@@ -23,7 +23,7 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      -name: Build2
+      - name: Builds
         run: hugo --minify
 
       - name: Deploy
