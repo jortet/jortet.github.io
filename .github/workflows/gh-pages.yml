@@ -22,7 +22,9 @@ jobs:
 
       - name: Build
         run: hugo --minify
-             hugo --minify
+
+      -name: Build2
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
