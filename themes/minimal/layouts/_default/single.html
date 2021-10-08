@@ -11,14 +11,15 @@
     <div align="start" class="content">{{ .Content }}</div>
 
     {{ if isset .Params "abstract"}}
-      <h4>by {{ $.Scratch.Get "authors" | markdownify}}<br>
+      {{ .Date.Format (.Site.Params.dateFormat | default "January, 2006") | $.Scratch.Set "date" }}
+      <h4>by {{ .Params.authors | markdownify}}<br>
         {{ if ne "" .Params.doi}}
-          <a href='{{ .Scratch.Get "doi" }}'><i>{{ $.Scratch.Get "publication" }}</i>{{ $.Scratch.Get "info" }}</a><br>
+          <a href='{{ .Params.doi }}'><i>{{ .Params.publication }}</i>{{ .Params.info }}</a><br>
         {{ else }}
-          <i>{{ $.Scratch.Get "publication" }}</i>{{ $.Scratch.Get "info" }}<br>
+          <i>{{ .Params.publication }}</i>{{ .Params.info }}<br>
         {{ end }}
 
-      {{ $.Scratch.Get "note" }} {{ $.Scratch.Get "date" }}</h4>
+      {{ .Params.note }} {{ $.Scratch.Get "date" }}</h4>
       <div align="start" class="content">{{ markdownify .Params.abstract }}</div>
 
       <div class="content"><a href="{{ .Params.folder_name }}.bib">BibTeX citation</a></div>
