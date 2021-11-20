@@ -28,6 +28,9 @@ with open(args.file, "r") as file:
         lines = article.split("\n")
         folder_name = lines[0].split("{")[1][:-1]
 
+        if not(os.path.isdir(os.path.join("content", args.directory, folder_name))):
+             os.mkdir(os.path.join("content", args.directory, folder_name))
+
         with open(os.path.join("content", args.directory, folder_name, folder_name+".bib"), "w") as file:
             file.writelines(article)
 
