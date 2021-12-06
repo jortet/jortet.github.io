@@ -67,7 +67,7 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.icon]]
-    url = "https://www.researchgate.net/"
+    url = "https://www.researchgate.net/profile/Juliette-Ortet"
     name = "fab fa-researchgate"
     weight = 3
 
