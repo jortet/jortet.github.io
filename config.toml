@@ -19,7 +19,7 @@ googleAnalytics = ""
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     post = "PhD student at [CESBIO](https://www.cesbio.cnrs.fr/en-cesbio/) and [UQTR](https://www.uqtr.ca/english)"
-    address = "18 avenue Edouard Belin 31401 Toulouse Cedex 9, France"
+    address = ""
     mail = "[juliette.ortet (at) uqtr.ca](mailto:juliette.ortet@uqtr.ca)"
 
 [[menu.main]]
