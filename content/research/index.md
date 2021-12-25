@@ -1,6 +1,6 @@
 ---
 title: "My Research"
-date: "2021-08-30"
+date: "2021-12-26"
 ---
 # PhD
 ## Magnetic, gravimetric and geodetic constraints on the dynamics of the fluid core

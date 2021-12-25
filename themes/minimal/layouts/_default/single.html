@@ -20,7 +20,7 @@
         {{ end }}
 
       {{ .Params.note }} {{ $.Scratch.Get "date" }}</h4>
-      <div align="start" class="content">{{ markdownify .Params.abstract }}</div>
+      <div align="start" class="content"><p>{{ markdownify .Params.abstract }}</p></div>
 
       <div class="content"><a href="{{ .Params.folder_name }}.bib">BibTeX citation</a></div>
     {{ end }}

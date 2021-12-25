@@ -6,7 +6,7 @@
       <h2>{{ .Title }}</h2>
     </div>
 
-    {{ range (.Paginator 15).Pages.ByDate.Reverse }} {{ partial "list-item" . }} {{ end }}
+    {{ range .Paginator.Pages.ByDate.Reverse }} {{ partial "list-item" . }} {{ end }}
 
 </main>
 

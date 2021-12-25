@@ -1,8 +1,6 @@
 Home: mettre une section keyword entre le titre et le contact
 Time-varying Gravimetry, Geodesy
 
-Texte abstract avec un seul paragraphe justifié et pas centré
-
 Pour la google ref sur les images: compresser image (sinon ca peut aussi casser sur github > 1Mo), add alt-text attribute to image
 page abstract avec image (voir sutterley)
 page abstract avec pdf pour les posters
