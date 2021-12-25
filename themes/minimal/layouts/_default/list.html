@@ -2,9 +2,15 @@
 
 <main>
 
+<<<<<<< HEAD
     <h2 class="title">{{ .Title }}</h2>
+=======
+    <div class="list-title">
+      <h2>{{ .Title }}</h2>
+    </div>
+>>>>>>> 0bf7bee38fc7cf9c6cfd188875e107325d52c2e1
 
-    {{ range (.Paginator 15).Pages.ByDate.Reverse }} {{ partial "list-item" . }} {{ end }}
+    {{ range .Paginator.Pages.ByDate.Reverse }} {{ partial "list-item" . }} {{ end }}
 
 </main>
 

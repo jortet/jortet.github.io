@@ -11,7 +11,7 @@ googleAnalytics = ""
     description = "Personal Research page"
     githubUsername = "jortet"
     accent = "#18447c"
-    profilePic = "/photo_JOR.jpg"
+    profilePic = "/images/photo_JOR.jpg"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
@@ -80,3 +80,6 @@ googleAnalytics = ""
     url = "mailto:juliette.ortet@uqtr.ca"
     name = "fas fa-envelope"
     weight = 5
+
+[markup.goldmark.renderer]
+    unsafe= true
