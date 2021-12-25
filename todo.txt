@@ -1,20 +1,25 @@
-Page de garde:
-rendre responsive sur portable une fois finie
+Home: mettre une section keyword entre le titre et le contact
+Time-varying Gravimetry, Geodesy
 
-My research = créer une page texte md que je remplirai
+Pour la google ref sur les images: compresser image (sinon ca peut aussi casser sur github > 1Mo), add alt-text attribute to image
+page abstract avec image (voir sutterley)
+page abstract avec pdf pour les posters
 
-Publication, conference
-page abstract au propre (voir sutterley)
-ajouter les abstracts des conferences
-
-Voir pour créer le site dispo en FR
-https://gohugo.io/content-management/multilingual/
-Voir configuration recherche/standard google
-ajouter un logo pastille au site (une terre geodesie?)
+Page presse avec l'article EOS dans recherche pour l'instant. A voir
 
 Amélioration potentielle:
 Arborescence avec préprint, et un dossier par an? si ca marche
 potentiellement remove la date de last update des pages abstract
+ajout google analytics https://gideonwolfe.com/posts/sysadmin/hugo/hugogoogleanalytics/
 
 readme github (voir tyler)
 update researchgate
+
+
+Voir pour créer le site dispo en FR
+https://gohugo.io/content-management/multilingual/
+Voir configuration recherche/standard google (hugo website SEO)
+https://martijnvanvreeden.nl/10-ways-to-improve-your-hugo-website-performance/
+https://github.com/doncabreraphone/victorhugo
+https://harrycresswell.com/writing/hugo-seo-accurate-page-titles/
+ajouter un logo pastille au site (une terre geodesie?)
