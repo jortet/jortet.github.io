@@ -81,6 +81,9 @@ img {
   width: 60%;
 }
 
+.content > p {
+  text-align: justify;
+}
 
 /* Profile picture */
 

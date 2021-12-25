@@ -2,7 +2,9 @@
 
 <main>
 
-    <h2 class="title">{{ .Title }}</h2>
+    <div class="list-title">
+      <h2>{{ .Title }}</h2>
+    </div>
 
     {{ range (.Paginator 15).Pages.ByDate.Reverse }} {{ partial "list-item" . }} {{ end }}
 
