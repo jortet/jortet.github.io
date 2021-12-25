@@ -1,22 +1,13 @@
 Home: mettre une section keyword entre le titre et le contact
 Time-varying Gravimetry, Geodesy
 
-My research = créer une page texte md que je remplirai
-
-Bug affichage abstract ne se fait pas par moment à voir
-
+Texte abstract avec un seul paragraphe justifié et pas centré
 
 Pour la google ref sur les images: compresser image (sinon ca peut aussi casser sur github > 1Mo), add alt-text attribute to image
-Publication, conference
 page abstract avec image (voir sutterley)
+page abstract avec pdf pour les posters
 
-Voir pour créer le site dispo en FR
-https://gohugo.io/content-management/multilingual/
-Voir configuration recherche/standard google (hugo website SEO)
-https://martijnvanvreeden.nl/10-ways-to-improve-your-hugo-website-performance/
-https://github.com/doncabreraphone/victorhugo
-https://harrycresswell.com/writing/hugo-seo-accurate-page-titles/
-ajouter un logo pastille au site (une terre geodesie?)
+Page presse avec l'article EOS dans recherche pour l'instant. A voir
 
 Amélioration potentielle:
 Arborescence avec préprint, et un dossier par an? si ca marche
@@ -25,3 +16,12 @@ ajout google analytics https://gideonwolfe.com/posts/sysadmin/hugo/hugogoogleana
 
 readme github (voir tyler)
 update researchgate
+
+
+Voir pour créer le site dispo en FR
+https://gohugo.io/content-management/multilingual/
+Voir configuration recherche/standard google (hugo website SEO)
+https://martijnvanvreeden.nl/10-ways-to-improve-your-hugo-website-performance/
+https://github.com/doncabreraphone/victorhugo
+https://harrycresswell.com/writing/hugo-seo-accurate-page-titles/
+ajouter un logo pastille au site (une terre geodesie?)
