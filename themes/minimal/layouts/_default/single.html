@@ -11,18 +11,7 @@
     <div align="start" class="content">{{ .Content }}</div>
 
     {{ if isset .Params "abstract"}}
-      {{ .Date.Format (.Site.Params.dateFormat | default "January, 2006") | $.Scratch.Set "date" }}
-      <h4>by {{ .Params.authors | markdownify}}<br>
-        {{ if ne "" .Params.doi}}
-          <a href='{{ .Params.doi }}'><i>{{ .Params.publication }}</i>{{ .Params.info }}</a><br>
-        {{ else }}
-          <i>{{ .Params.publication }}</i>{{ .Params.info }}<br>
-        {{ end }}
-
-      {{ .Params.note }} {{ $.Scratch.Get "date" }}</h4>
-      <div align="start" class="content"><p>{{ markdownify .Params.abstract }}</p></div>
-
-      <div class="content"><a href="{{ .Params.folder_name }}.bib">BibTeX citation</a></div>
+      <div align="start" class="content">{{ .Params.abstract }}</div>
     {{ end }}
 
 
