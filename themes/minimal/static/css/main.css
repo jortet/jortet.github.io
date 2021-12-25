@@ -18,12 +18,8 @@ main {
     margin: auto;
     padding: 25px;
     flex: 1 0 auto;
-<<<<<<< HEAD
     max-width: 90%;
     max-height: 90%;
-=======
-    max-width: 850px;
->>>>>>> 0bf7bee38fc7cf9c6cfd188875e107325d52c2e1
 }
 
 img {
@@ -37,15 +33,11 @@ img {
 /* Homepage */
 
 .intro {
-<<<<<<< HEAD
   transform: translateY(30%);
   display: flex;
   align-items: center;
   justify-content: center;
   max-height: 90%;
-=======
-    transform: translateY(5vh);
->>>>>>> 0bf7bee38fc7cf9c6cfd188875e107325d52c2e1
 }
 
 .intro:after {
@@ -60,7 +52,6 @@ img {
     padding-top: 20px;
 }
 
-<<<<<<< HEAD
 /* Column positionning */
 
 .column {
@@ -96,18 +87,6 @@ img {
 .profile {
     border-radius: 50%;
     max-height: 330px;
-=======
-.content > p {
-  text-align: justify;
-}
-
-/* Profile picture */
-
-.profile {
-    width: 90vmin;
-    height: 30vmin;
-    /*border-radius: 50%;*/
->>>>>>> 0bf7bee38fc7cf9c6cfd188875e107325d52c2e1
 }
 
 /* Colored links */
@@ -142,10 +121,6 @@ a:hover {
 }
 
 /* List item for posts/projects */
-
-.list-title {
-    padding-bottom: 22px;
-}
 
 .item {
     padding: 10px 0;
