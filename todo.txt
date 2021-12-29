@@ -1,20 +1,3 @@
-Page de garde:
-rendre responsive sur portable une fois finie
+Flex CV page (voir body html 100% et les body flex)
 
-My research = créer une page texte md que je remplirai
-
-Publication, conference
-page abstract au propre (voir sutterley)
-ajouter les abstracts des conferences
-
-Voir pour créer le site dispo en FR
-https://gohugo.io/content-management/multilingual/
-Voir configuration recherche/standard google
-ajouter un logo pastille au site (une terre geodesie?)
-
-Amélioration potentielle:
-Arborescence avec préprint, et un dossier par an? si ca marche
-potentiellement remove la date de last update des pages abstract
-
-readme github (voir tyler)
-update researchgate
+googleAnalytics
