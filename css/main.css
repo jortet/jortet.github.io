@@ -52,6 +52,17 @@ img {
     padding-top: 20px;
 }
 
+
+.publi_content{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+.filling_img {
+  max-width: 50%;
+}
+
 /* Column positionning */
 
 .column {
