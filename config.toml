@@ -33,13 +33,13 @@ googleAnalytics = "G-9ZKGYQJK9V"
     weight = 2
 
 [[menu.main]]
-    url = "/publications_conferences/"
-    name = "Publications & conferences"
+    url = "/publications/"
+    name = "Publications"
     weight = 3
 
 [[menu.main]]
-    url = "/communication/"
-    name = "Communication"
+    url = "/conferences/"
+    name = "Conferences"
     weight = 4
 
 [[menu.main]]
