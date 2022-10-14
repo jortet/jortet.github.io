@@ -21,6 +21,7 @@ googleAnalytics = "G-9ZKGYQJK9V"
     post = "PhD student at [CESBIO](https://www.cesbio.cnrs.fr/en-cesbio/) and [UQTR](https://www.uqtr.ca/english)"
     address = ""
     mail = "[juliette.ortet (at) uqtr.ca](mailto:juliette.ortet@uqtr.ca)"
+    favicon = "img/favicon.png"
 
 [[menu.main]]
     url = "/"
