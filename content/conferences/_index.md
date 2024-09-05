@@ -1,7 +1,7 @@
 ---
 title: "Conferences"
 description: ""
-date: "2022-08-30"
+date: "2024-09-05"
 ---
 
 Conferences

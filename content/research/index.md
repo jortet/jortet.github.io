@@ -1,6 +1,6 @@
 ---
 title: "My research"
-date: "2021-09-03"
+date: "2024-09-05"
 ---
 
 # Observations of soil surface temperatures over the whole Arctic permafrost area using passive microwave remote sensing
