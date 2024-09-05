@@ -16,7 +16,7 @@ for *3rd year Bachelor's Degree students* ([ENSG professional licence program](h
 
 -----------------
 
-### 2022, [Ecole d'ingénieurs de Purpan](https://www.purpan.fr/en/)
+### 2022-2023, [Ecole d'ingénieurs de Purpan](https://www.purpan.fr/en/)
 
 **11SCI06 : Socle des savoirs scientifiques fondamentaux - Mathématiques** - Practicals\
 for *1st year engineering students* ([Purpan engineering program](https://www.purpan.fr/formations/ingenieur/))
