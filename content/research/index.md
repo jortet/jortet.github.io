@@ -1,18 +1,30 @@
 ---
-title: "Research"
+title: "My research"
 date: "2021-09-03"
 ---
 
-# PhD Research
-## 2020-2024
+# Passive microwave remote sensing to monitor the permafrost in the Arctic area
+## PhD subject:
+### 2020 - 2024
+
+> How to do it?
+
+thesis description
+
+
+# Astrometeorology: helping the radio astronomers in their daily (and nightly) observations
+## Internship subject:
+### 2019
+> How to do it?
+
+Internship description
+## Internship subject:
+### 2018
+> How to do it?
+
+Internship description
 
 <!--
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
-
-The quick brown fox jumped over the lazy
-dog's back.
 
 ### Header 3
 
