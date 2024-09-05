@@ -57,10 +57,10 @@ googleAnalytics = "G-9ZKGYQJK9V"
 # The "name" field should match the name of the icon in Font Awesome.
 # The list of available icons can be found at http://fontawesome.io/icons.
 
-#[[menu.icon]]
-#    url = "https://github.com/jortet/"
-#    name = "fab fa-github"
-#    weight = 1
+[[menu.icon]]
+    url = "https://orcid.org/my-orcid?orcid=0009-0002-8294-1076"
+    name = "fab fa-orcid"
+    weight = 1
 
 [[menu.icon]]
     url = "https://scholar.google.fr/"
@@ -78,6 +78,11 @@ googleAnalytics = "G-9ZKGYQJK9V"
     weight = 4
 
 [[menu.icon]]
+    url = "https://x.com/JuOrtet"
+    name = "fab fa-twitter"
+    weight = 5
+
+[[menu.icon]]
     url = "mailto:juliette.ortet@uqtr.ca"
     name = "fas fa-envelope"
-    weight = 5
+    weight = 6
