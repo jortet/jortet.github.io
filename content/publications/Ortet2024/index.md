@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Soil Moisture Retrieval i"
+title: "Evaluating Soil Moisture Retrieval in Arctic and Sub-Arctic Environments Using Passive Microwave Satellite Data"
 date: 2024-08-01
 authors: "**Ortet, J.**, Mialon, A., Kerr, Y., Royer, A., Berg, A., Boike, J., Humphreys, E. and Gibon, F."
 publication_types: "2"
