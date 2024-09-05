@@ -3,15 +3,19 @@ title: "My research"
 date: "2021-09-03"
 ---
 
-# Passive microwave remote sensing to monitor the permafrost in the Arctic area
-## PhD subject:
+# Observations of soil surface temperatures over the whole Arctic permafrost area using passive microwave remote sensing
+## PhD at CESBIO and UQTR:
 ### 2020 - 2024
 
-> How to do it?
+> Remote sensing – Radiative transfer model – Inverse modeling
 
-thesis description
+> Soil Moisture and Ocean Salinity (SMOS) – Arctic area – Soil moisture and temperature
 
+> Python – Linux – QGIS – Matlab – R
 
+> Fieldworks at Cambridge Bay (Nunavut, Canada) in 2022 and 2023
+
+<!--
 # Astrometeorology: helping the radio astronomers in their daily (and nightly) observations
 ## Internship subject:
 ### 2019
@@ -24,7 +28,7 @@ Internship description
 
 Internship description
 
-<!--
+
 
 ### Header 3
 
