@@ -4,7 +4,10 @@ defaultContentLanguage = "en-us"
 title = "Juliette Ortet"
 theme = "minimal"
 disqusShortname = "jortet" # delete this to disable disqus comments
-googleAnalytics = "G-9ZKGYQJK9V"
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-9ZKGYQJK9V"
 
 [params]
     author = "Juliette Ortet"
