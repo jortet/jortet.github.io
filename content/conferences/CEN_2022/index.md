@@ -4,7 +4,7 @@ date: 2022-05-01
 authors: "**Ortet, J.**, Mialon, A., Royer, A., Bircher, S., Kerr, Y. and Roy, A."
 publication_types: "2"
 abstract: "Élément clé de l'environnement nordique, la couche active du pergélisol est sujette "
-publication: "Colloque du Centre d'Etues Nordiques 2022"
+publication: "Colloque du Centre d'Etudes Nordiques 2022"
 info: ""
 doi: ""
 note: ""
