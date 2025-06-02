@@ -1,6 +1,6 @@
 ---
 title: "Retrieving frozen ground temperature under the snowpack in Arctic permafrost area"
-date: 2025
+date: 2025-12-31
 authors: "**Ortet, J.**, Mialon, A., Royer, A., Schwank M., Rautiainen K., Holmberg M., Bircher-Adrot S., Colliander A.,  Kerr, Y. and Roy A."
 publication_types: "2"
 abstract: ""
