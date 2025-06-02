@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Soil Moisture Retrieval in Arctic and Sub-Arctic Environments Using Passive Microwave Satellite Data"
+title: "Assessment of L-band Passive Microwave soil moisture retrievals in the North American Boreal biome"
 date: 2025-05-31
 authors: "Gorrab A., Sonnentag O., Mialon, A, Hanes C., **Ortet, J.**, Berg, A. and Roy A."
 publication_types: "2"
