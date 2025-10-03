@@ -21,9 +21,9 @@ disqusShortname = "jortet" # delete this to disable disqus comments
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
-    post = "PhD student at [CESBIO](https://www.cesbio.cnrs.fr/en-cesbio/) and [UQTR](https://www.uqtr.ca/english)"
+    post = "Post-doctoral researcher at [FMI](https://en.ilmatieteenlaitos.fi/)"
     address = ""
-    mail = "[juliette.ortet (at) uqtr.ca](mailto:juliette.ortet@uqtr.ca)"
+    mail = "[juliette.ortet (at) fmi.fi](mailto:juliette.ortet@fmi.fi)"
     favicon = "img/favicon.png"
 
 [[menu.main]]
