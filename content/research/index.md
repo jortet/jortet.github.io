@@ -1,40 +1,28 @@
 ---
 title: "My research"
-date: "2024-09-05"
+date: "2025-10-03"
 ---
 
-# Observations of soil surface temperatures over the whole Arctic permafrost area using passive microwave remote sensing
-## PhD at CESBIO and UQTR:
-### 2020 - 2024
+# Current employement
 
-> Remote sensing – Radiative transfer model – Inverse modeling
+----------------
 
-> Soil Moisture and Ocean Salinity (SMOS) – Arctic area – Soil moisture and temperature
+## Postdoctoral researcher
 
-> Python – Linux – QGIS – Matlab – R
+### Since Oct. 2025, [Finnish Meteorological Institute](https://en.ilmatieteenlaitos.fi/)
 
-> Fieldworks at Cambridge Bay (Nunavut, Canada) in 2022 and 2023
-
-<!--
-# Astrometeorology: helping the radio astronomers in their daily (and nightly) observations
-## Internship subject:
-### 2019
-> How to do it?
-
-Internship description
-## Internship subject:
-### 2018
-> How to do it?
-
-Internship description
+> Focusing on satellite passive microwave remote sensing for the cryosphere
 
 
+# Past employement
 
-### Header 3
+## PhD in environmental sciences
 
-> This is a blockquote.
->
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
--->
+### 2020 - 2024, [CESBIO](https://www.cesbio.cnrs.fr/en-cesbio/) and [UQTR](https://www.uqtr.ca/)
+
+> **Observations of soil surface temperatures over the whole Arctic permafrost area using passive microwave remote sensing**
+
+> Remote sensing – Radiative transfer model – Inverse modeling\
+  Soil Moisture and Ocean Salinity (SMOS) – Arctic area – Soil moisture and temperature\
+  Python – Linux – QGIS – Matlab – R\
+  Fieldworks at Cambridge Bay (Nunavut, Canada) in 2022 and 2023
