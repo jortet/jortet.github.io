@@ -1,7 +1,7 @@
 ---
 title: "CV"
-date: "2024-09-05"
+date: "2025-10-03"
 ---
-{{< embed-pdf url="/cv/CV_JOR_20250602.pdf" >}}
+{{< embed-pdf url="/cv/CV_ENG_20251003.pdf" >}}
 
-## [Download](/cv/CV_JOR_20250602.pdf)
+## [Download](/cv/CV_ENG_20251003.pdf)
