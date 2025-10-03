@@ -193,17 +193,22 @@ pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
 
 &lt;/script&gt;
 
-&lt;h2 id="download"&gt;&lt;a href="https://jortet.github.io/cv/CV_ENG_20251003.pdf"&gt;Download&lt;/a&gt;&lt;/h2&gt;</description></item><item><title>Retrieving frozen ground temperature under the snowpack in Arctic permafrost area</title><link>https://jortet.github.io/publications/ortet2025_tg/</link><pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate><guid>https://jortet.github.io/publications/ortet2025_tg/</guid><description/></item><item><title>Assessment of L-band Passive Microwave soil moisture retrievals in the North American Boreal biome</title><link>https://jortet.github.io/publications/gorrab2025_sm/</link><pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><guid>https://jortet.github.io/publications/gorrab2025_sm/</guid><description/></item><item><title>Retrieving the soil surface temperature under the snowpack in the Arctic permafrost area from SMOS brightness temperatures</title><link>https://jortet.github.io/conferences/smos15_2024/</link><pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate><guid>https://jortet.github.io/conferences/smos15_2024/</guid><description/></item><item><title>My research</title><link>https://jortet.github.io/research/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate><guid>https://jortet.github.io/research/</guid><description>&lt;h1 id="observations-of-soil-surface-temperatures-over-the-whole-arctic-permafrost-area-using-passive-microwave-remote-sensing"&gt;Observations of soil surface temperatures over the whole Arctic permafrost area using passive microwave remote sensing&lt;/h1&gt;
-&lt;h2 id="phd-at-cesbio-and-uqtr"&gt;PhD at CESBIO and UQTR:&lt;/h2&gt;
-&lt;h3 id="2020---2024"&gt;2020 - 2024&lt;/h3&gt;
+&lt;h2 id="download"&gt;&lt;a href="https://jortet.github.io/cv/CV_ENG_20251003.pdf"&gt;Download&lt;/a&gt;&lt;/h2&gt;</description></item><item><title>My research</title><link>https://jortet.github.io/research/</link><pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate><guid>https://jortet.github.io/research/</guid><description>&lt;h1 id="current-employement"&gt;Current employement&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id="postdoctoral-researcher"&gt;Postdoctoral researcher&lt;/h2&gt;
+&lt;h3 id="since-oct-2025-finnish-meteorological-institute"&gt;Since Oct. 2025, &lt;a href="https://en.ilmatieteenlaitos.fi/"&gt;Finnish Meteorological Institute&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Remote sensing – Radiative transfer model – Inverse modeling&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Focusing on satellite passive microwave remote sensing for the cryosphere&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h1 id="past-employement"&gt;Past employement&lt;/h1&gt;
+&lt;h2 id="phd-in-environmental-sciences"&gt;PhD in environmental sciences&lt;/h2&gt;
+&lt;h3 id="2020---2024-cesbio-and-uqtr"&gt;2020 - 2024, &lt;a href="https://www.cesbio.cnrs.fr/en-cesbio/"&gt;CESBIO&lt;/a&gt; and &lt;a href="https://www.uqtr.ca/"&gt;UQTR&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Soil Moisture and Ocean Salinity (SMOS) – Arctic area – Soil moisture and temperature&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Observations of soil surface temperatures over the whole Arctic permafrost area using passive microwave remote sensing&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Python – Linux – QGIS – Matlab – R&lt;/p&gt;&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Fieldworks at Cambridge Bay (Nunavut, Canada) in 2022 and 2023&lt;/p&gt;&lt;/blockquote&gt;</description></item><item><title>Teaching</title><link>https://jortet.github.io/teaching/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate><guid>https://jortet.github.io/teaching/</guid><description>&lt;hr&gt;
+&lt;p&gt;Remote sensing – Radiative transfer model – Inverse modeling&lt;br&gt;
+Soil Moisture and Ocean Salinity (SMOS) – Arctic area – Soil moisture and temperature&lt;br&gt;
+Python – Linux – QGIS – Matlab – R&lt;br&gt;
+Fieldworks at Cambridge Bay (Nunavut, Canada) in 2022 and 2023&lt;/p&gt;</description></item><item><title>Retrieving frozen ground temperature under the snowpack in Arctic permafrost area</title><link>https://jortet.github.io/publications/ortet2025_tg/</link><pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate><guid>https://jortet.github.io/publications/ortet2025_tg/</guid><description/></item><item><title>Assessment of L-band Passive Microwave soil moisture retrievals in the North American Boreal biome</title><link>https://jortet.github.io/publications/gorrab2025_sm/</link><pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><guid>https://jortet.github.io/publications/gorrab2025_sm/</guid><description/></item><item><title>Retrieving the soil surface temperature under the snowpack in the Arctic permafrost area from SMOS brightness temperatures</title><link>https://jortet.github.io/conferences/smos15_2024/</link><pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate><guid>https://jortet.github.io/conferences/smos15_2024/</guid><description/></item><item><title>Teaching</title><link>https://jortet.github.io/teaching/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate><guid>https://jortet.github.io/teaching/</guid><description>&lt;hr&gt;
 &lt;h3 id="2020-2022-ecole-nationale-des-sciences-géographiques"&gt;2020-2022, &lt;a href="https://www.ensg.eu/?lang=en"&gt;Ecole Nationale des Sciences Géographiques&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Introduction to satellite imagery&lt;/strong&gt; - Lectures and Practicals&lt;br&gt;
 for &lt;em&gt;1st year engineering students&lt;/em&gt; (&lt;a href="https://www.ensg.eu/Academic-Programs-engineer"&gt;ENSG engineering program&lt;/a&gt;)&lt;/p&gt;
