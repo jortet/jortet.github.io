@@ -18,7 +18,7 @@ date: "2025-10-03"
 
 ## PhD in environmental sciences
 
-### 2020 - 2024, [CESBIO](https://www.cesbio.cnrs.fr/en-cesbio/) and [UQTR](https://www.uqtr.ca/)
+### 2020 - 2025, [CESBIO](https://www.cesbio.cnrs.fr/en-cesbio/) and [UQTR](https://www.uqtr.ca/)
 
 > **Observations of soil surface temperatures over the whole Arctic permafrost area using passive microwave remote sensing**
 
