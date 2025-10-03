@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Juliette Ortet</title><link>https://jortet.github.io/</link><description>Recent content on Juliette Ortet</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jortet.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Retrieving frozen ground temperature under the snowpack in Arctic permafrost area</title><link>https://jortet.github.io/publications/ortet2025_tg/</link><pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate><guid>https://jortet.github.io/publications/ortet2025_tg/</guid><description/></item><item><title>Assessment of L-band Passive Microwave soil moisture retrievals in the North American Boreal biome</title><link>https://jortet.github.io/publications/gorrab2025_sm/</link><pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><guid>https://jortet.github.io/publications/gorrab2025_sm/</guid><description/></item><item><title>Retrieving the soil surface temperature under the snowpack in the Arctic permafrost area from SMOS brightness temperatures</title><link>https://jortet.github.io/conferences/smos15_2024/</link><pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate><guid>https://jortet.github.io/conferences/smos15_2024/</guid><description/></item><item><title>CV</title><link>https://jortet.github.io/cv/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate><guid>https://jortet.github.io/cv/</guid><description>&lt;script type="text/javascript" src= '/js/pdf-js/build/pdf.js'>&lt;/script>
-&lt;style>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Juliette Ortet</title><link>https://jortet.github.io/</link><description>Recent content on Juliette Ortet</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jortet.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Retrieving frozen ground temperature under the snowpack in Arctic permafrost area</title><link>https://jortet.github.io/publications/ortet2025_tg/</link><pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate><guid>https://jortet.github.io/publications/ortet2025_tg/</guid><description/></item><item><title>Assessment of L-band Passive Microwave soil moisture retrievals in the North American Boreal biome</title><link>https://jortet.github.io/publications/gorrab2025_sm/</link><pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><guid>https://jortet.github.io/publications/gorrab2025_sm/</guid><description/></item><item><title>Retrieving the soil surface temperature under the snowpack in the Arctic permafrost area from SMOS brightness temperatures</title><link>https://jortet.github.io/conferences/smos15_2024/</link><pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate><guid>https://jortet.github.io/conferences/smos15_2024/</guid><description/></item><item><title>CV</title><link>https://jortet.github.io/cv/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate><guid>https://jortet.github.io/cv/</guid><description>&lt;script type="text/javascript" src= '/js/pdf-js/build/pdf.js'&gt;&lt;/script&gt;
+&lt;style&gt;
 #the-canvas {
  border: 1px solid black;
  direction: ltr;
@@ -39,22 +39,22 @@
 @-webkit-keyframes spin {
  to { -webkit-transform: rotate(360deg); }
 }
-&lt;/style>
+&lt;/style&gt;
 
-&lt;div id="paginator">
- &lt;button id="prev">Previous&lt;/button>
- &lt;button id="next">Next&lt;/button>
+&lt;div id="paginator"&gt;
+ &lt;button id="prev"&gt;Previous&lt;/button&gt;
+ &lt;button id="next"&gt;Next&lt;/button&gt;
  &amp;nbsp; &amp;nbsp;
- &lt;span>Page: &lt;span id="page_num">&lt;/span> / &lt;span id="page_count">&lt;/span>&lt;/span>
-&lt;/div>
-&lt;div id="embed-pdf-container">
- &lt;div id="loadingWrapper">
- &lt;div id="loading">&lt;/div>
- &lt;/div>
- &lt;canvas id="the-canvas">&lt;/canvas>
-&lt;/div>
+ &lt;span&gt;Page: &lt;span id="page_num"&gt;&lt;/span&gt; / &lt;span id="page_count"&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;div id="embed-pdf-container"&gt;
+ &lt;div id="loadingWrapper"&gt;
+ &lt;div id="loading"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;canvas id="the-canvas"&gt;&lt;/canvas&gt;
+&lt;/div&gt;
 
-&lt;script type="text/javascript">
+&lt;script type="text/javascript"&gt;
 window.onload = function() {
 
 
@@ -166,7 +166,7 @@ document.getElementById('prev').addEventListener('click', onPrevPage);
 
 
 function onNextPage() {
- if (pageNum >= pdfDoc.numPages) {
+ if (pageNum &gt;= pdfDoc.numPages) {
  return;
  }
  pageNum++;
@@ -182,7 +182,7 @@ pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
  document.getElementById('page_count').textContent = numPages;
  
  
- if(pageNum > numPages) {
+ if(pageNum &gt; numPages) {
  pageNum = numPages
  }
 
@@ -191,28 +191,28 @@ pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
 });
 }
 
-&lt;/script>
+&lt;/script&gt;
 
-&lt;h2 id="download">&lt;a href="https://jortet.github.io/cv/CV_JOR_20250602.pdf">Download&lt;/a>&lt;/h2></description></item><item><title>My research</title><link>https://jortet.github.io/research/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate><guid>https://jortet.github.io/research/</guid><description>&lt;h1 id="observations-of-soil-surface-temperatures-over-the-whole-arctic-permafrost-area-using-passive-microwave-remote-sensing">Observations of soil surface temperatures over the whole Arctic permafrost area using passive microwave remote sensing&lt;/h1>
-&lt;h2 id="phd-at-cesbio-and-uqtr">PhD at CESBIO and UQTR:&lt;/h2>
-&lt;h3 id="2020---2024">2020 - 2024&lt;/h3>
-&lt;blockquote>
-&lt;p>Remote sensing – Radiative transfer model – Inverse modeling&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Soil Moisture and Ocean Salinity (SMOS) – Arctic area – Soil moisture and temperature&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Python – Linux – QGIS – Matlab – R&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Fieldworks at Cambridge Bay (Nunavut, Canada) in 2022 and 2023&lt;/p>&lt;/blockquote></description></item><item><title>Teaching</title><link>https://jortet.github.io/teaching/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate><guid>https://jortet.github.io/teaching/</guid><description>&lt;hr>
-&lt;h3 id="2020-2022-ecole-nationale-des-sciences-géographiques">2020-2022, &lt;a href="https://www.ensg.eu/?lang=en">Ecole Nationale des Sciences Géographiques&lt;/a>&lt;/h3>
-&lt;p>&lt;strong>Introduction to satellite imagery&lt;/strong> - Lectures and Practicals&lt;br>
-for &lt;em>1st year engineering students&lt;/em> (&lt;a href="https://www.ensg.eu/Academic-Programs-engineer">ENSG engineering program&lt;/a>)&lt;/p>
-&lt;p>&lt;strong>The image format&lt;/strong> - Lectures and Practicals&lt;br>
-for &lt;em>1st year engineering students&lt;/em> (&lt;a href="https://www.ensg.eu/Academic-Programs-engineer">ENSG engineering program&lt;/a>)&lt;br>
-for &lt;em>3rd year Bachelor&amp;rsquo;s Degree students&lt;/em> (&lt;a href="https://www.ensg.eu/Academic-Program-Professional-Licence">ENSG professional licence program&lt;/a>)&lt;/p>
-&lt;hr>
-&lt;h3 id="2022-2023-ecole-d">2022-2023, &lt;a href="https://www.purpan.fr/en/">Ecole d&amp;rsquo;ingénieurs de Purpan&lt;/a>&lt;/h3>
-&lt;p>&lt;strong>11SCI06 : Socle des savoirs scientifiques fondamentaux - Mathématiques&lt;/strong> - Practicals&lt;br>
-for &lt;em>1st year engineering students&lt;/em> (&lt;a href="https://www.purpan.fr/formations/ingenieur/">Purpan engineering program&lt;/a>)&lt;/p>
-&lt;p>&lt;strong>11SCI07 : Mathématiques appliquées au numérique et à la physique&lt;/strong> - Practicals&lt;br>
-for &lt;em>1st year engineering students&lt;/em> (&lt;a href="https://www.purpan.fr/formations/ingenieur/">Purpan engineering program&lt;/a>)&lt;/p></description></item><item><title>Evaluating Soil Moisture Retrieval in Arctic and Sub-Arctic Environments Using Passive Microwave Satellite Data</title><link>https://jortet.github.io/publications/ortet2024_sm/</link><pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate><guid>https://jortet.github.io/publications/ortet2024_sm/</guid><description/></item><item><title>Soil temperature retrieval below the snowpack in the Arctic permafrost area using passive microwave satellite remote sensing</title><link>https://jortet.github.io/conferences/smapvex_2024/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>https://jortet.github.io/conferences/smapvex_2024/</guid><description/></item><item><title>Monitoring surface soil temperature in the Arctic permafrost areas in winter using passive microwave satellite remote sensing</title><link>https://jortet.github.io/conferences/eucop_2023/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>https://jortet.github.io/conferences/eucop_2023/</guid><description/></item><item><title>Monitoring the surface soil moisture and temperature of the Arctic permafrost using passive microwave satellite remote sensing</title><link>https://jortet.github.io/conferences/jc2_2022/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://jortet.github.io/conferences/jc2_2022/</guid><description/></item><item><title>Poster : Suivi des humidités et températures du sol en zone de pergélisol arctique par télédétection satellite micro-ondes</title><link>https://jortet.github.io/conferences/cen_2022/</link><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid>https://jortet.github.io/conferences/cen_2022/</guid><description/></item><item><title>Poster : Suivi des humidités et températures du sol en zone de pergélisol arctique par télédétection satellite micro-ondes</title><link>https://jortet.github.io/conferences/cnfraa_2022/</link><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid>https://jortet.github.io/conferences/cnfraa_2022/</guid><description/></item></channel></rss>
+&lt;h2 id="download"&gt;&lt;a href="https://jortet.github.io/cv/CV_JOR_20250602.pdf"&gt;Download&lt;/a&gt;&lt;/h2&gt;</description></item><item><title>My research</title><link>https://jortet.github.io/research/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate><guid>https://jortet.github.io/research/</guid><description>&lt;h1 id="observations-of-soil-surface-temperatures-over-the-whole-arctic-permafrost-area-using-passive-microwave-remote-sensing"&gt;Observations of soil surface temperatures over the whole Arctic permafrost area using passive microwave remote sensing&lt;/h1&gt;
+&lt;h2 id="phd-at-cesbio-and-uqtr"&gt;PhD at CESBIO and UQTR:&lt;/h2&gt;
+&lt;h3 id="2020---2024"&gt;2020 - 2024&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Remote sensing – Radiative transfer model – Inverse modeling&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Soil Moisture and Ocean Salinity (SMOS) – Arctic area – Soil moisture and temperature&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Python – Linux – QGIS – Matlab – R&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Fieldworks at Cambridge Bay (Nunavut, Canada) in 2022 and 2023&lt;/p&gt;&lt;/blockquote&gt;</description></item><item><title>Teaching</title><link>https://jortet.github.io/teaching/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate><guid>https://jortet.github.io/teaching/</guid><description>&lt;hr&gt;
+&lt;h3 id="2020-2022-ecole-nationale-des-sciences-géographiques"&gt;2020-2022, &lt;a href="https://www.ensg.eu/?lang=en"&gt;Ecole Nationale des Sciences Géographiques&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Introduction to satellite imagery&lt;/strong&gt; - Lectures and Practicals&lt;br&gt;
+for &lt;em&gt;1st year engineering students&lt;/em&gt; (&lt;a href="https://www.ensg.eu/Academic-Programs-engineer"&gt;ENSG engineering program&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The image format&lt;/strong&gt; - Lectures and Practicals&lt;br&gt;
+for &lt;em&gt;1st year engineering students&lt;/em&gt; (&lt;a href="https://www.ensg.eu/Academic-Programs-engineer"&gt;ENSG engineering program&lt;/a&gt;)&lt;br&gt;
+for &lt;em&gt;3rd year Bachelor&amp;rsquo;s Degree students&lt;/em&gt; (&lt;a href="https://www.ensg.eu/Academic-Program-Professional-Licence"&gt;ENSG professional licence program&lt;/a&gt;)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="2022-2023-ecole-d"&gt;2022-2023, &lt;a href="https://www.purpan.fr/en/"&gt;Ecole d&amp;rsquo;ingénieurs de Purpan&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;11SCI06 : Socle des savoirs scientifiques fondamentaux - Mathématiques&lt;/strong&gt; - Practicals&lt;br&gt;
+for &lt;em&gt;1st year engineering students&lt;/em&gt; (&lt;a href="https://www.purpan.fr/formations/ingenieur/"&gt;Purpan engineering program&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11SCI07 : Mathématiques appliquées au numérique et à la physique&lt;/strong&gt; - Practicals&lt;br&gt;
+for &lt;em&gt;1st year engineering students&lt;/em&gt; (&lt;a href="https://www.purpan.fr/formations/ingenieur/"&gt;Purpan engineering program&lt;/a&gt;)&lt;/p&gt;</description></item><item><title>Evaluating Soil Moisture Retrieval in Arctic and Sub-Arctic Environments Using Passive Microwave Satellite Data</title><link>https://jortet.github.io/publications/ortet2024_sm/</link><pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate><guid>https://jortet.github.io/publications/ortet2024_sm/</guid><description/></item><item><title>Soil temperature retrieval below the snowpack in the Arctic permafrost area using passive microwave satellite remote sensing</title><link>https://jortet.github.io/conferences/smapvex_2024/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>https://jortet.github.io/conferences/smapvex_2024/</guid><description/></item><item><title>Monitoring surface soil temperature in the Arctic permafrost areas in winter using passive microwave satellite remote sensing</title><link>https://jortet.github.io/conferences/eucop_2023/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>https://jortet.github.io/conferences/eucop_2023/</guid><description/></item><item><title>Monitoring the surface soil moisture and temperature of the Arctic permafrost using passive microwave satellite remote sensing</title><link>https://jortet.github.io/conferences/jc2_2022/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://jortet.github.io/conferences/jc2_2022/</guid><description/></item><item><title>Poster : Suivi des humidités et températures du sol en zone de pergélisol arctique par télédétection satellite micro-ondes</title><link>https://jortet.github.io/conferences/cen_2022/</link><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid>https://jortet.github.io/conferences/cen_2022/</guid><description/></item><item><title>Poster : Suivi des humidités et températures du sol en zone de pergélisol arctique par télédétection satellite micro-ondes</title><link>https://jortet.github.io/conferences/cnfraa_2022/</link><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid>https://jortet.github.io/conferences/cnfraa_2022/</guid><description/></item></channel></rss>
