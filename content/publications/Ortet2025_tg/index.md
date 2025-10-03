@@ -6,6 +6,6 @@ publication_types: "2"
 abstract: ""
 publication: "The Cryosphere"
 info: ", "
-doi: "https://doi.org/10.5194/egusphere-2024-3963"
+doi: "https://doi.org/10.5194/tc-19-3571-2025"
 note: ""
 ---
