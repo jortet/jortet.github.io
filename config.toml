@@ -21,7 +21,7 @@ disqusShortname = "jortet" # delete this to disable disqus comments
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
-    post = "Post-doctoral researcher at [FMI](https://en.ilmatieteenlaitos.fi/)"
+    post = "Postdoctoral researcher at [FMI](https://en.ilmatieteenlaitos.fi/)"
     address = ""
     mail = "[juliette.ortet (at) fmi.fi](mailto:juliette.ortet@fmi.fi)"
     favicon = "img/favicon.png"
@@ -81,11 +81,6 @@ disqusShortname = "jortet" # delete this to disable disqus comments
     weight = 4
 
 [[menu.icon]]
-    url = "https://x.com/JuOrtet"
-    name = "fab fa-twitter"
-    weight = 5
-
-[[menu.icon]]
-    url = "mailto:juliette.ortet@uqtr.ca"
+    url = "mailto:juliette.ortet@fmi.fi"
     name = "fas fa-envelope"
-    weight = 6
+    weight = 5
